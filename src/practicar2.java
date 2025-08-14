@@ -25,7 +25,7 @@ public class practicar2 {
             System.out.println("5. Calculadora");
             System.out.println("6. Salir");
             while (!validarN){
-                opcion = sc.nextInt();git init
+                opcion = sc.nextInt();
                 if ((opcion>=1)&&(opcion<=6)){
                     validarN=true;
                 }else {
